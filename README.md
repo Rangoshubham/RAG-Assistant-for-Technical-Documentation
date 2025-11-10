@@ -9,7 +9,7 @@ This project is a sophisticated Retrieval-Augmented Generation (RAG) application
 
 This application is deployed and publicly accessible via Streamlit Community Cloud. You can interact with the live version without any local setup.
 
-**[➡️ Click here to access the live application](https://rag-assistant-for-documents-bvzyrvdcijefuaacjpjm6k.streamlit.app/)**
+**[➡️ Click here to access the live application](https://rag-assistant-for-technical-documentation-fqrizz3nfwjvnrsfnkmb.streamlit.app/)**
 
 ## ✨ Key Features
 
@@ -136,6 +136,6 @@ You can customize the behavior of the RAG pipeline by modifying the `config.py` 
 This project was developed by:
 
 - **Shubham Kumar**
-- **Anurag Kumar**
+- **Anurag Shakaya**
 
 From Galgotias University.
